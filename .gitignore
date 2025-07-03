@@ -1,0 +1,19 @@
+# Model files (too large for Git)
+*.safetensors
+*.bin
+*.gguf
+llama3_finetuned_final/
+llama3_gguf/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Cache
+.cache/
+*.cache
